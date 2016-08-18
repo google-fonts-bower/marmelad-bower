@@ -1,0 +1,17 @@
+{
+    "name": "marmelad-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/marmelad-bower.git"
+    },
+    "description": "Marmelad font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
